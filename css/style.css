@@ -1,0 +1,49 @@
+#heder {
+	height: 100px;
+	background: #FFFFFF;
+}
+#heder2 {
+		height: 40px;
+	background: #4169E1;
+	border-radius: 10px 10px 10px 10px;
+}
+#footer1 {
+	margin-left: 0px;
+	height: 40px;
+	background: #4169E1;
+	border-radius: 10px 10px 10px 10px;
+}
+#footer2 {
+	margin-left: 0px;
+}
+
+.search{
+	color: white;
+	margin: 5px;
+}
+.text1{
+	margin-left: 250px;
+	color: white;
+
+}
+.sel{
+	width: 150px; 
+}
+.btn{
+	background:  	#FFFF00;
+	border-radius: 20px 20px 20px 20px;
+}
+.aa{
+color: white;
+}
+.aaa{
+color: #999;
+margin-left: 0px;
+}
+.menu{
+	background: #4169E1;
+	background-size: 100px;
+}
+.aaaa{
+	background: #40E0D0;
+}
